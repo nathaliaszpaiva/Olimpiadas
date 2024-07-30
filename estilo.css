@@ -1,0 +1,24 @@
+.fonte{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: "Playwrite Argentina", serif;
+}
+
+.topico{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.corpo{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.foto{
+    width: 20px;
+    text-align: center;
+}
